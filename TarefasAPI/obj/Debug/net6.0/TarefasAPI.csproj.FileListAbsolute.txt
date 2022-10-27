@@ -19,3 +19,12 @@ C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\obj\Debug\net6.0\refint\Tarefas
 C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\obj\Debug\net6.0\TarefasAPI.pdb
 C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\obj\Debug\net6.0\TarefasAPI.genruntimeconfig.cache
 C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\obj\Debug\net6.0\ref\TarefasAPI.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\Dapper.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\Dapper.Contrib.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\projetos\ProjectsNET\TarefasDapper\TarefasAPI\obj\Debug\net6.0\TarefasAPI.csproj.CopyComplete
